@@ -20,18 +20,18 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:textSize="16sp"/>
- 
-            <Button android:text="@string/OpenPickButtonLabel"
-                    android:id="@+id/OpenPickButton"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:textSize="16sp"/>
- 
-            <Button android:text="@string/SaveAsPickButtonLabel"
-                    android:id="@+id/SaveAsPickButton"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:textSize="16sp"/>
+ <!---->
+            <!--<Button android:text="@string/OpenPickButtonLabel"-->
+                    <!--android:id="@+id/OpenPickButton"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:textSize="16sp"/>-->
+ <!---->
+            <!--<Button android:text="@string/SaveAsPickButtonLabel"-->
+                    <!--android:id="@+id/SaveAsPickButton"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:textSize="16sp"/>-->
  
         </LinearLayout>
          

@@ -71,7 +71,7 @@
     <string name="PasswordIsRemembered">(password remembered)</string>
     <string name="PasswordIsNotRemembered">(password not remembered)</string>
     <string name="BrowserSelectKeystore">select keystore file</string>
-    <string name="KeystoreLoadingMessage">Loading keystore file...</string>
+    <string name="KeystoreLoadingMessage">Loading keystore file…</string>
 
     <string name="MenuCreateKeystore">New Keystore</string>
     <string name="ContinueButtonLabel">Continue</string>
@@ -202,4 +202,8 @@
     <!-- Error message shown when the key/mode="auto" and the key to use for signing can't be determined.  %s replaced with input filename. -->
     <string name="AutoKeySelectionError">Unable to auto-select key for signing %s</string>
 
+    <string name="fileEndingImage" translatable="false">\.(png|gif|jpg|jpeg|bmp)$</string>
+    <string name="fileEndingAudio" translatable="false">\.(mp3|wav|ogg|midi)$</string>
+    <string name="fileEndingPackage" translatable="false">\.(apk|zip|jar|rar|gz|7z)$</string>
+    <string name="fileEndingWebText" translatable="false">\.(html?|php)$</string>
 </resources>
